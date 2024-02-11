@@ -1,4 +1,4 @@
-# This is a simple Next docker image, using Node as runtime and Bun as package manager.
+# This is a simple Next docker image, using Node as runtime and Bun as package manager 🌱🐳.
 
 ## Getting Started
 
