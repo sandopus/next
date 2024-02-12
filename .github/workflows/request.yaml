@@ -3,7 +3,7 @@ name: pull-request
 on:
   push:
     branches-ignore:
-      - master
+      - main
 
 jobs:
   create-pull-request:
